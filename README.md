@@ -1,6 +1,6 @@
-nsm-notes: session notes for Non Session Manager
+nsm-notes: session notes for Non Session Manager  
 
-gui library: go-fltk
-osc library: scgolang/osc (open sound control) 
+gui library: go-fltk  
+osc library: scgolang/osc (open sound control)  
 
-Work In Progress, not ready for distribution.
+Work In Progress, not ready for distribution.  
