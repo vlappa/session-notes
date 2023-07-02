@@ -27,11 +27,7 @@ type NsmShowGuiCallback func() error
 type NsmHideGuiCallback func() error
 type NsmActiveCallback func(b bool) error
 type NsmSessionIsLoadedCallback func() error
-type NsmBroadCallback func(s string, m osc.Message) error
-
-//type NsmBroadCallback func(s string, m osc.Message) error
-
-type NsmLabelCallback func(userdata any) error
+type NsmBroadcastCallback func(s string, m osc.Message) error
 
 type nsmChannels struct {
 	nsmOpenInChan            chan []string
