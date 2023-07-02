@@ -1,3 +1,6 @@
 nsm-notes: session notes for Non Session Manager
 
-Work in Progress, not ready for distribution.
+gui library: go-fltk
+osc library: scgolang/osc (open sound control) 
+
+Work In Progress, not ready for distribution.
